@@ -96,7 +96,7 @@ To simplify and digitize campus complaint workflows using cloud-native solutions
 
 🚧 The site is live but authentication is still under development.
 
-🔗 [Campus Complaint Management System (Work in Progress)](6604214sameerkumarg1-axehbbcpcmezgbgv.centralindia-01.azurewebsites.net)
+🔗 [Campus Complaint Management System (Work in Progress)](https://6604214sameerkumarg1-axehbbcpcmezgbgv.centralindia-01.azurewebsites.net)
 
 
 ## 👨‍💻 Author
